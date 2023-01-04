@@ -2,8 +2,6 @@ const account_Id = 144552
 let accountEmail = "harsh@gmail.com"
 var accounPassword ="12123"
 accountCity ="Jaipur"
-
-
 accountCity ="Gorakhpur"
 
 //account_Id = 23   // not allowed to use in javascript 
