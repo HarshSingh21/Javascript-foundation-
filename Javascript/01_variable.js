@@ -5,6 +5,7 @@ accountCity ="Jaipur"
 accountCity ="Gorakhpur"
 
 
+
 //account_Id = 23   // not allowed to use in javascript 
 console.log(account_Id);
 
