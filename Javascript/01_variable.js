@@ -7,9 +7,9 @@ accountCity ="Gorakhpur"
 console.log(account_Id);
 /*  Prefer not to  use var because of issue in block and functional scope */
 console.table([accountEmail,accountCity,account_Id,accounPassword])
-
-
 // if you do not define variable javascript will print "undefined"  
+
+
 
 
 
